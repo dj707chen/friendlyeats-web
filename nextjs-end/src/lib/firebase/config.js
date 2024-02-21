@@ -5,3 +5,4 @@ export default {
 	storageBucket: "demo-codelab-nextjs.appspot.com",
 	authDomain: "demo-codelab-nextjs.firebaseapp.com",
 };
+``
